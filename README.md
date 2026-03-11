@@ -1,0 +1,2 @@
+# econophys_try
+日経平均構成銘柄のFat Tail性とVolatility Clusteringを実証するノートブック
